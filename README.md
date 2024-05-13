@@ -4,7 +4,7 @@
 **Dealership APP** is a Java application designed to help automotive dealers manage their vehicle inventory efficiently. This README provides an overview of the classes in the project and a guide on how to use the application.
 
 ## Classes Overview
-- Here's a screenshot of how the home display look;
+- Here's a screenshot of how the home screen look;
 ![HomeDisplay](Images/HomeDisplay.PNG)
 
 ### 1. Dealership
@@ -21,6 +21,7 @@
 - Displays menus and handles user input to execute various functionalities such as adding a vehicle, searching by various criteria, or exiting the application.
 
 ## How to Use Dealership Management System
+- Here's a screenshot of how the
 
 ### 1. Add Vehicle
 - From the main menu, select the option to add a vehicle.
